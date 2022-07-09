@@ -12,15 +12,15 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
+global.owner = ['94766241324']
+global.premium = ['94766241324']
+global.ownernomer = '94766241324'
 global.ownername = 'ШHłТΞ HΛϾКΞЯS'
 global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
+global.ig = 'https://github.com/KING 𝙳𝙸𝙽𝚄𝚂𝙷𝙰 𝚜𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗-BOT-OFFICIAL'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
+global.sc = 'https://github.com/KING 𝙳𝙸𝙽𝚄𝚂𝙷𝙰 𝚜𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗-BOT-OFFICIAL/KING-BOT-MD'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
 global.author = 'ШHłТΞ HΛϾКΞЯS'
